@@ -38,6 +38,10 @@ Plumber will preserve your query params stay intact! Try: https://banana.com.br/
 
 And 💣 BOOM! 💣, you'll be redirected with your query params
 
+## Usage with docker
+
+Read it [here](https://hub.docker.com/repository/docker/caonulisses/plumber)
+
 ## Escaping characters
 
 The provider we are integrating does not support url escape characters, like `%2F` for '/', so we came up with the followind nasty solution:
