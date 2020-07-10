@@ -1,0 +1,17 @@
+{
+  "name": "plumber",
+  "version": "0.0.1",
+  "description": "Redirecting https requests to http with the almigthy power of gambiarra",
+  "main": "app.js",
+  "scripts": {
+    "start": "echo \"Oh, come on! Read the docs for Mario's sake!\" && exit 1",
+    "test": "echo \"If you want to test it, do it in production\" && exit 1"
+  },
+  "author": "Ulisses Caon",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
