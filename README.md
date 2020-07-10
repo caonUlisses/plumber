@@ -2,6 +2,8 @@
 
 🔧 Plumber helps us to redirect incoming HTTPS requests and point then to HTTP.
 
+![Docker Image CI](https://github.com/caonUlisses/plumber/workflows/Docker%20Image%20CI/badge.svg)
+
 > ❗Hey! Do not use it in production! Seriously! Really!
 
 ## Why plumber?
